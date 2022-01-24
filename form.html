@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="referrer" content="origin">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+
+
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+    <h1 class="formH1">Dodaj Słowo</h1>
+    <form
+    action="https://formsubmit.io/send/samuel.wlostowski@gmail.com"
+    method="POST">
+        <div class="label first">
+            <label for="mail"><b>Twój e-mail</b></label>
+        </div>
+        <div class="input">
+            <input 
+            id="mail"
+            name="mail"
+            type="mail"
+            placeholder="Podaj swój adres e-mail...">
+        </div>
+        <div class="label">
+            <label for="msg"><b>Nowe słowo</b></label>
+        </div>
+        <div class="input">
+            <textarea
+            id="newWord"
+            name="newWord"
+            rows="1"
+            placeholder="Tutaj wpisz nowe słowo..."></textarea>
+        </div>
+        <div class="label">
+            <label for="msg"><b>Definicja</b></label>
+        </div>
+        <div class="input">
+            <textarea
+            id="definition"
+            name="definition"
+            rows="5"
+            placeholder="Tu wpisz definicję..."></textarea>
+        </div>
+        <div class="label">
+            <label for="msg"><b>Wymowa (opcjonalnie)</b></label>
+        </div>
+        <div class="input">
+            <textarea 
+            name="pronunciation" 
+            id="pronunciation" 
+            rows="1"
+            placeholder="Tutaj możesz wpisać wymowę tego słowa..."></textarea>
+        </div>
+        <div class="label">
+            <label for="msg"><b>Przykłady użycia (opcjonalnie)</b></label>
+        </div>
+        <div class="input last">
+            <textarea 
+            name="examples" 
+            id="examples" 
+            rows="10"
+            placeholder="Jeśli chcesz, możesz podać tutaj przykłady użycia..."></textarea>
+        </div>
+        <div class="formButton">
+            <input
+            value="Wyślij" 
+            type="submit"></button>
+        </div>
+    </form>
+</body>
+</html>

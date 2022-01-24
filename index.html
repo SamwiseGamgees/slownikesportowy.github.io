@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Słownik e-sportowy</title>
+        <link rel="stylesheet" href="style.css"/>
+    
+	</head>
+
+    <body>
+    <main>
+        
+        
+        <div class="Title">
+            <h1>Słownik e-sportowy</h1>
+
+        </div>
+        <div class="newWordMaker">
+            <a class="newWord" href="form.html">Dodaj Słowo</a>
+        </div>
+        
+
+        <div class="window" id="definitionWindow">
+                <div class="glassManipulation">
+                    <div class="glass">
+                        <div class="xManipulation">
+                            <div class="x" onclick="hide('definitionWindow'); show('informations'); show('searchSelect'); showList();">
+                                <img id="x" src="Images/x1.png" alt="x button">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    
+                <!-- reusable div -->
+                <div class="definitions"> 
+                       <section>
+                            <h1 id="definitionTitle">Title</h1>
+                            <p id="definitionContent">Content</p> 
+                        </section>
+                </div>
+            
+        </div>        
+		
+        <div class="searcherManipulation">
+            <input type="text" placeholder="Wyszukaj frazę..." oninput="searchDefinition(this)">
+			<select id="searchSelect" style='visibility: hidden' onchange="showDefinitionWindow(this.value)">
+            </select>
+        </div>
+            
+        <div class="words allLinks">           
+            <div>
+                <h2>A</h2>
+                    <ul>
+                        <li class="linkState" title="AA">AA</li>
+                        <li class="linkState" title="Ace">Ace</li>
+                        <li class="linkState" title="AD">AD</li>
+                        <li class="linkState" title="ADC">ADC</li>
+                        <li class="linkState" title="Admin">Admin</li>
+                        <li class="linkState" title="AFK">AFK</li>
+                        <li class="linkState" title="AOE">AOE</li> 
+                        <li class="linkState" title="AP">AP</li>
+                        <li class="linkState" title="ARAM">ARAM</li> 
+                        <li class="linkState" title="Armor Pen">Armor Pen</li> 
+                        <li class="linkState" title="ASAP">ASAP</li>
+                        <li class="linkState" title="Assasin">Assasin</li> 
+                        <li class="linkState" title="AS">AS</li>              
+                    </ul>                
+                <h2>B</h2>
+                    <ul>
+                        <li class="linkState" title="B/Back">B/Back</li>
+                        <li class="linkState" title="BD/Backdoor">BD/Backdoor</li>
+                        <li class="linkState" title="Base">Base</li>
+                        <li class="linkState" title="BG">BG</li>
+                        <li class="linkState" title="Blue/Blue buff">Blue/Blue buff</li>
+                        <li class="linkState" title="BM">BM</li>
+                        <li class="linkState" title="Boosted">Boosted</li>
+                        <li class="linkState" title="Bot">Bot</li>
+                        <li class="linkState" title="BotRK">BotRK</li>
+                        <li class="linkState" title="BRB">BRB</li>
+                        <li class="linkState" title="Buff">Buff</li>
+                        <li class="linkState" title="Burst">Burst</li>
+                        <li class="linkState" title="Bruiser">Bruiser</li>
+                    </ul>
+                <h2>C</h2>
+                    <ul>
+                        <li class="linkState" title="Carry">Carry</li>
+                        <li class="linkState" title="CC/Crowd Control">CC/Crowd Control</li>
+                        <li class="linkState" title="CD">CD</li>
+                        <li class="linkState" title="CDR">CDR</li>
+                        <li class="linkState" title="Cover">Cover</li>
+                        <li class="linkState" title="Creepy">Creepy</li>
+                        <li class="linkState" title="CS">CS</li>
+                        <li class="linkState" title="Control Ward/Pink Ward/Pink">Control Ward/Pink Ward/Pink</li>
+                    </ul>
+                <h2>D</h2>
+                    <ul>
+                        <li class="linkState" title="Dive">Dive</li>
+                        <li class="linkState" title="DPS">DPS</li>
+                        <li class="linkState" title="DoT">DoT</li>
+                        <li class="linkState" title="Drake">Drake</li>
+                        <li class="linkState" title="Disengage">Disengage</li>
+                        <li class="linkState" title="Dodge">Dodge</li>
+                    </ul>   
+                <h2>E</h2>
+				    <ul>
+                        <li class="linkState" title="Elo">Elo</li>
+                        <li class="linkState" title="Elo Hell">Elo Hell</li>
+                        <li class="linkState" title="EZ">EZ</li>
+                        <li class="linkState" title="Engage">Engage</li>
+                        <li class="linkState" title="Elder">Elder</li>
+                    </ul>
+                <h2>F</h2>
+                    <ul>
+                        <li class="linkState" title="Face check">Face check</li>
+                        <li class="linkState" title="First Blood">First Blood</li>
+                        <li class="linkState" title="Fed">Fed</li>
+                        <li class="linkState" title="Feedowanie">Feedowanie</li>
+                        <li class="linkState" title="FF">FF</li>
+                        <li class="linkState" title="Freeze">Freeze</li>
+                        <li class="linkState" title="Fear">Fear</li>
+                    </ul>
+                <h2>G</h2>
+                <h2>H</h2>
+				    <ul>
+                        <li class="linkState" title='Headshot'>Headshot</li>
+                    </ul>
+
+                <h2>I</h2>
+                    
+            </div>
+            <div>
+                <h2>J</h2>
+                <h2>K</h2>
+                <h2>L</h2>
+                    <ul>
+                        <li class="linkState" title='Level'>Level</li>
+                    </ul>
+
+                <h2>M</h2>
+                <h2>N</h2>
+                <h2>O</h2>
+                <h2>P</h2>
+                <div>
+                    <h2>R</h2>
+                    <ul>
+                        <li class="linkState" title='Recall'>Recall</li>
+                    </ul>
+                </div>
+                    
+                        
+            </div>
+            <div>
+                <h2>S</h2>
+                <h2>T</h2>
+                <h2>U</h2>
+                <h2>W</h2>
+                <h2>X</h2>
+                <h2>Y</h2>
+                <h2>Z</h2>
+                
+            </div>   
+            </ul>     
+        </div>
+            
+
+    </main>
+    <div id="informations" class="container">
+        <div class="information">
+            <div class="contact">
+                <ul>
+                    <li>Kontakt do twórcy:</li>
+                </ul>
+                <address>
+                    <ul>
+                        <li><img class="adress-icon" src="./Images/mail.png" alt="mail icon">
+                            <a href="mailto:samuel.wlostowski@gmail.com">samuel.wlostowski@gmail.com</a></li>
+                        <li><img class="adress-icon" src="./Images/phone.png" alt="phone icon">
+                            <a href="tel:667671380">667 671 380</a></li>
+                    </ul>
+                </address>
+            </div>
+    </div>
+
+    
+    </div>
+    <script src="definition.js"></script>
+    <script src="app.js"></script>
+    </body>
+</html>
