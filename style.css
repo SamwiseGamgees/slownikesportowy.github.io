@@ -15,11 +15,8 @@
 }
 
 
-.top{
-    background: none;
+.gaming{
     position: absolute;
-    background: image("/Image/gaming.jpg");
-    z-index: 0;
 }
 
 body{
