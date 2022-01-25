@@ -17,6 +17,7 @@
 
 .top{
     background: none;
+    position: absolute;
     background: image("/Image/gaming.jpg");
     z-index: 0;
 }
