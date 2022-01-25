@@ -17,7 +17,8 @@
 
 .top{
     background: none;
-    background-image: url("/Images/gaming.png");
+    background: image("/Image/gaming.jpg");
+    z-index: 0;
 }
 
 body{
