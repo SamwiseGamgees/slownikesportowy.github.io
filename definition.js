@@ -654,11 +654,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Gap Closer",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Wszelkiego rodzaju dashe, doskoki, blinki itp. skracające odległość \
+									pomiędzy tobą a rywalem. <br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
