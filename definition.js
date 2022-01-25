@@ -323,6 +323,27 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 
 									
 // C
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Camp",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Obóz danych stworów w jungli, podstawowych campów jest 6 rodzaji:<br />\
+									<br />\
+									W niebieskiej jungli:<br />\
+									- Blue Buff<br />\
+									- Gromp<br />\
+									- Wolves <br />\
+									<br />\
+									I w czerwonej jungli:<br />\
+									- Red Buff<br />\
+									- Krugs/Krugi/Skalniaki<br />\
+									- Wraiths/Wiedźmy/Rapory<br />\
+									<br />\
+									Oraz krab wędrownik, który chodzi po rzece i nikogo nie atakuje.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Carry",
@@ -665,6 +686,173 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Ghosting",
+									"<b>Znaczenie:</b><br /> \
+									Oglądanie streama jednego z przeciwników, w trakcie trwania meczu, \
+									w celu zobaczenia pozycji przeciwników. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+									
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"GG",
+									"<b>Znaczenie:</b><br /> \
+									ang. <i>good game</i> – Dobra Gra.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"GJ",
+									"<b>Znaczenie:</b><br /> \
+									ang. <i>good job</i> – dobra robota!<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"GLHF",
+									"<b>Znaczenie:</b><br /> \
+									ang. <i>good luck have fun</i> – powodzenia i dobrej zabawy<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"GP",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Gangplank – jedna z postaci.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Ground",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Uziemienie – efekt kontroli tłumu.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+
+
+
+
+
+// H								
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Hypercarry",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Postać, będąca mocna w późnym etapie gry, bazująca zazwyczaj na autoatakach.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Honor",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Po zakończeniu rozgrywki, możemy docenić jakiegoś gracza, \
+									honorując go jedną z 3 odznak:<br />\
+									<br />\
+									- Great Shotcalling (Doskonałe Dowodzenie)<br /> \
+									- Stayed Cool (Zachowanie Zimnej Krwi)<br /> \
+									- GG <3 (Dobra gra <3)<br /> \
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Hard Leash",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Duża pomoc junglerowi przy pierwszym campie.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Hard CC",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Kontrola tłumu nie pozwalająca się ruszyć z miejsca.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Harass",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Obijanie przeciwnika.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+
+
+
+
+
+
+// I									
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Inc",
+									"<b>Znaczenie:</b><br /> \
+									ang. <i>incoming</i> – nadchodzą.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Inner",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Wieże wewnątrzne.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Instalock",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Natychmiastowy wybór bohatera i zatwierdzenie, bez większego namysłu.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Instakill",
+									"<b>Znaczenie:</b><br /> \
+									Natychmiastowe zabójstwo. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Invade",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Wejście do jungli wroga, zazwyczaj w celu zczyszczenia mu<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Title",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
@@ -673,7 +861,17 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
-									
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
 definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"Recall", 
 									"To <i>jest</i> znaczenie słowa Recall....."

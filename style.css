@@ -10,12 +10,15 @@
 /*kolorki*/
 :root {
     --red: #00cc7e;
-    --dark: #004b2e;
+    --dark: #1b1b1b;
     --white: #f0f8ff;
 }
 
 
-
+.top{
+    background: none;
+    background-image: url("/Images/gaming.png");
+}
 
 body{
     font-family: "Oswald", sans-serif;

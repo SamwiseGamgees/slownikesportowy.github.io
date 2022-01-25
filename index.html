@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Słownik e-sportowy</title>
+        <title>Słownik Gamera</title>
         <link rel="stylesheet" href="style.css"/>
     
 	</head>
@@ -9,43 +9,43 @@
     <body>
     <main>
         
-        
-        <div class="Title">
-            <h1>Słownik e-sportowy</h1>
+        <div class="top">
+            <div class="Title">
+                <h1>Słownik Gamera</h1>
 
-        </div>
-        <div class="newWordMaker">
-            <a class="newWord" href="form.html">Dodaj Słowo</a>
-        </div>
-        
+            </div>
+            <div class="newWordMaker">
+                <a class="newWord" href="form.html">Dodaj Słowo</a>
+            </div>
+            
 
-        <div class="window" id="definitionWindow">
-                <div class="glassManipulation">
-                    <div class="glass">
-                        <div class="xManipulation">
-                            <div class="x" onclick="hide('definitionWindow'); show('informations'); show('searchSelect'); showList();">
-                                <img id="x" src="Images/x1.png" alt="x button">
+            <div class="window" id="definitionWindow">
+                    <div class="glassManipulation">
+                        <div class="glass">
+                            <div class="xManipulation">
+                                <div class="x" onclick="hide('definitionWindow'); show('informations'); show('searchSelect'); showList();">
+                                    <img id="x" src="Images/x1.png" alt="x button">
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                    
-                <!-- reusable div -->
-                <div class="definitions"> 
-                       <section>
-                            <h1 id="definitionTitle">Title</h1>
-                            <p id="definitionContent">Content</p> 
-                        </section>
-                </div>
+                        
+                    <!-- reusable div -->
+                    <div class="definitions"> 
+                        <section>
+                                <h1 id="definitionTitle">Title</h1>
+                                <p id="definitionContent">Content</p> 
+                            </section>
+                    </div>
+                
+            </div>        
             
-        </div>        
-		
-        <div class="searcherManipulation">
-            <input type="text" placeholder="Wyszukaj frazę..." oninput="searchDefinition(this)">
-			<select id="searchSelect" style='visibility: hidden' onchange="showDefinitionWindow(this.value)">
-            </select>
-        </div>
-            
+            <div class="searcherManipulation">
+                <input type="text" placeholder="Wyszukaj frazę..." oninput="searchDefinition(this)">
+                <select id="searchSelect" style='visibility: hidden' onchange="showDefinitionWindow(this.value)">
+                </select>
+            </div>
+        </div>   
         <div class="words allLinks">           
             <div>
                 <h2>A</h2>
@@ -82,6 +82,7 @@
                     </ul>
                 <h2>C</h2>
                     <ul>
+                        <li class="linkState" title="Camp">Camp</li>
                         <li class="linkState" title="Carry">Carry</li>
                         <li class="linkState" title="CC/Crowd Control">CC/Crowd Control</li>
                         <li class="linkState" title="CD">CD</li>
@@ -121,35 +122,34 @@
                 <h2>G</h2>
                     <ul>
                         <li class="linkState" title="Gank">Gank</li>
-                        <li class="linkState" title="Gap closer">Gap closer</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
-                        <li class="linkState" title="Fear">Fear</li>
+                        <li class="linkState" title="Gap Closer">Gap Closer</li>
+                        <li class="linkState" title="Ghosting">Ghosting</li>
+                        <li class="linkState" title="GG">GG</li>
+                        <li class="linkState" title="GJ">GJ</li>
+                        <li class="linkState" title="GLHF">GLHF</li>
+                        <li class="linkState" title="GP">GP</li>
+                        <li class="linkState" title="Ground">Ground</li>
                     </ul>
                 <h2>H</h2>
 				    <ul>
-                        <li class="linkState" title='Headshot'>Headshot</li>
+                        <li class="linkState" title="Hypercarry">Hypercarry</li>
+                        <li class="linkState" title="Honor">Honor</li>
+                        <li class="linkState" title="Hard Leash">Hard Leash</li>
+                        <li class="linkState" title="Hard CC">Hard CC</li>
+                        <li class="linkState" title="Harass">Harass</li>
                     </ul>
-
                 <h2>I</h2>
-                    
+                    <ul>
+                        <li class="linkState" title="Inc">Inc</li>
+                        <li class="linkState" title="Inner">Inner</li>
+                        <li class="linkState" title="Instalock">Instalock</li>
+                        <li class="linkState" title="Fear">Fear</li>
+                        <li class="linkState" title="Fear">Fear</li>
+                        <li class="linkState" title="Fear">Fear</li>
+                        <li class="linkState" title="Fear">Fear</li>
+                        <li class="linkState" title="Fear">Fear</li>
+                        <li class="linkState" title="Fear">Fear</li>
+                    </ul>
             </div>
             <div>
                 <h2>J</h2>
