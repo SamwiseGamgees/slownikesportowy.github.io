@@ -1432,261 +1432,262 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"));
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Skillshot",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Umiejętność, którą należy wycelować.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));									
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Smurf",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Osoba, która założyła sobie nowe konto, aby grać w niższych \
+									dywizjach, ze słabszymi przeciwnikami.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Snipe",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Zabójstwa z dużej odległości. \
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Snowball",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Efekt kuli śnieżnej – zdobycie ogromnej przewagi, dzięki małej przewadze na początku.\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Spiltpush",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Samotne pushowanie linii.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"SS",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Informacja o zniknięciu rywala.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Support",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Wspierający – rola na dolnej alei polegająca na wspieraniu ADC.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Siege",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Oblężenie wieży przeciwnika. <br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Suppression/Przygwożdżenie",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
+									Najsilniejszy rodzaj kontroli tłumu.<br />\
 									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+
+
+
+
+
+// T 									
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Tank",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Klasa postaci, mających przyjmować obrażenia.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Team Comp",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Kompozycja drużyny<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Teamfight",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Walka drużynowa.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"TF",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
+									<b>Ogólnie</b>\
+									Troll face\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Twisted Fate – postać z gry. \
+									Lub Trinity Force – przedmiot z gry.<br />\
+									<br /> \
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Throw",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Oddawanie dużej przewagi.<br /> \
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Tilt",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Bycie zdenerwowanym.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Top",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Górna aleja.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Toxic",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Negatywni gracze wyżywający się słownie na sojusznikach.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"TP",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Teleport – jeden z czarów przywoływacza.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Turret/Tower",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Wieża<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"TT",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									ang. <i>twisted treeline</i> – nieistniejący już tryb gry 3v3.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Ulti/Ultimate",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Umiejętność ostateczna.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"U2",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									ang. <i>you too</i> – ty też.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Ward",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Przedmiot, który po postawieniu zapewnia wizję w tym obszarze.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"WP",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									ang. <i>well played</i> – dobrze zagrane.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"WW",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
+									Warwick – jedna z postaci.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
+									"Zoning",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									<br />\
-									<br />\
-									<b>Przykład użycia:</b><br /> \
-									"));
-
-definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Title",
-									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
-									<br />\
+									Niedopuszczanie, aby rywale weszli na dany obszar.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));

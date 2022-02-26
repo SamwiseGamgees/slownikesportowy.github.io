@@ -1,0 +1,36 @@
+:root {
+    --red: #00cc7e;
+    --dark: #1b1b1b;
+    --white: #f0f8ff;
+}
+
+body{
+    background: linear-gradient(45deg, var(--red), var(--dark));
+    height: 100vh;
+    overflow: hidden;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40vh;
+    margin-right: 50vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+h2{
+    padding-top: 10vh;
+    padding-left: 5vw;
+    color: var(--dark);
+    text-decoration: none;
+}
+
+
+h2:hover{
+    transition: 0.5s;
+    color: var(--white);
+}
+a {
+    text-decoration: none;
+}
