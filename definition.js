@@ -1196,6 +1196,362 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"));									
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"OOM",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									ang. <li>out of mana</i> – nie mam many.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"One shot",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									Wyealiminowanie przeciwnika w jednej chwili, \
+									zazwyczaj za pomocą jednej umiejętności.<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Overextending",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Zbyt śmiałe splitpushowanie, lub oddalanie się od drużyny, \
+									narażające na atak rywali.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Overstay",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Zbyt długie pozostawanie na linii.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"OP",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									ang. <i>over powered</i> – potężne, a wręcze zbyt potężne.<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+
+
+
+
+
+
+
+
+
+// P									
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"PBE",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									ang. <i>Public Beta Environment</i> – oficjalny serwer testowy, \
+									na którym nowości pojawiają się szybciej niż na normalnych serwerach. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Peel",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Powstrzymywanie wroga przed dotarciem do wartościowych celów.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Penta/Pentakill",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Pięciokrotne zabójstwo/Pięć trupów, wyeliminowanie wszystkich przeciwników przez jednego \
+									gracza. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Poke",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Obijanie przeciwników z daleka.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Pot/Potki",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									Mistury wzmacniając, leczące itp.<br />\
+									<br /> \
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Proxy/Proxowanie",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Zabijanie stworów pomiędzy wieżami wroga, lub przy miejscu ich spawnienia.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Push",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Szybkie zabijanie stowrów przeciwnika w \
+									celu popchnięcia naszych w stronę wieży rywala.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+
+
+
+
+
+
+
+
+// R 									
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Rage",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									Dawanie upustu frustracji i złości spowodowanej grą.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Ragequit",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									Wyjście z gry spowodowane frustracją.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+									
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Ranged",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Bohaterowie walczący na dystans.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Ranked",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									Rozgrywka rankingowa.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Recall",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Powrót do bazy.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Riot Games",
+									"<b>Znaczenie:</b><br /> \
+									Twórcy gry League of Legends, Valorant, Legends of Runeterra, \
+									Wild Rift, Teamfight Tactics, Ruined King, Hextech Mayhem, a także \
+									niedługo Song of Nunu i CONV/RGENSE.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Roam",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Zejście z linii w celu pomocy sojusznikowi.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+
+
+
+
+
+
+
+
+// S 									
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Salty",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Pisanie na czacie o swojej frustracji.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Scuttle Crab",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									Krab Wędrownik – krab pojawiający się na rzece, który po zibiciu tworzy ołtarzyk, \
+									dla drużyny tego kto go zabił. Ołtarzyk ten daje prędkość ruchu, oraz wizję.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+									
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));									
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Title",
+									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b><br />\
+									<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Title",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
