@@ -177,6 +177,14 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"BB",
+									"<b>Znaczenie:</b><br /> \
+									ang. <i>bye bye</i> – pa pa<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"BD/Backdoor",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
