@@ -185,6 +185,14 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Bind",
+									"<b>Znaczenie:</b><br /> \
+									Ręcznie stworzony przez graczy skrót na myszce lub klawiaturze. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"BD/Backdoor",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
@@ -277,14 +285,25 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Buff",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
+									Czasowe lub trwałe podniesienie statystyk bohatera. <br />\
+									<br /> \
 									<b>League of Legends:</b><br />\
 									Wzmocnienie – zazwyczaj co dwa tygodnie do gry wchodzą nowe \"patche\", są to zmiany m.in.\
 									statystyk bohaterów. Wzmocnienie bohatera jest nazywane buffem.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
-									
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Build",
+									"<b>Znaczenie:</b><br /> \
+									Sposób rozdysponowania posiadanych przez postać punktów umiejętności. \
+									Najczęściej na początku rozgrywki podejmuje się decyzję, w którą stronę będzie się zmierzać (\
+									tank, mag, wojownik, zabójca itp.) i przez całą rozgrywkę ten plan się realizuje.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Burst",
 									"<b>Znaczenie:</b><br /> \
@@ -294,7 +313,15 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
-									
+
+definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
+									"Bug",
+									"<b>Znaczenie:</b><br /> \
+									Błąd w grze przeoczony przez twórców.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									"));
+
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Bruiser",
 									"<b>Znaczenie:</b><br /> \
@@ -1565,9 +1592,8 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"TF",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>Ogólnie</b>\
-									Troll face\
+									Troll face<br/>\
+									<br/>\
 									<b>League of Legends:</b><br />\
 									Twisted Fate – postać z gry. \
 									Lub Trinity Force – przedmiot z gry.<br />\
