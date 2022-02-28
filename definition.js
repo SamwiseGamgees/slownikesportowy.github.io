@@ -83,12 +83,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									ang. <i>Area Of Effect</i> - obszar efektu. \
 									Obszar w którym została użyta jakaś umiejętność. \
 									Nie wpływa bezpośrednio na pojedyńczego gracze, \
-									ale na wszystkich w tym obszarze.ang. "));
+									ale na wszystkich w tym obszarze."));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"AP",
 									"<b>Znaczenie:</b><br /> \
-									ang. <i>ability power</i> – Moc umiejętności<br />\
+									ang. <i>ability power</i> – moc umiejętności<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -103,6 +103,8 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Armor Pen",
 									"<b>Znaczenie:</b><br /> \
+									<br />\
+									<b>League of Legends:</b>\
 									Penetracja pacerza – jedna ze satystyk, które można ulepszać\
 									poprzez kupowanie przedmiotów. Pomaga ona likwidować tanków.<br />\
 									"));
@@ -146,7 +148,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"BB",
 									"<b>Znaczenie:</b><br /> \
-									ang. <i>bye bye</i> – pa pa<br />\
+									ang. <i>bye bye</i> – pa pa.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -161,7 +163,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Próba zniszczenia Nexusa przeciwników gdy nie ma ich w bazie i są zajęci czymś innym. \
-									Jest to trudny manewr, ponieważ łatwo jest zostać zauważony i zlikwidowany.<br />\
+									Jest to trudny manewr, ponieważ łatwo jest zostać zauważonym i zlikwidowanym.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -175,7 +177,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"BG",
 									"<b>Znaczenie:</b><br /> \
-									ang. <i>Bad Game</i> – Zła gra <br />\
+									ang. <i>Bad Game</i> – Zła Gra.<br />\
 									"));
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -272,6 +274,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Camp",
 									"<b>Znaczenie:</b><br /> \
+									Kryjówka, pozwalająca wziąść wroga z zaskoczenia.\
 									<br />\
 									<b>League of Legends:</b><br />\
 									Obóz danych stworów w jungli, podstawowych campów jest 6 rodzaji:<br />\
@@ -292,7 +295,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Carry",
 									"<b>Znaczenie:</b><br /> \
-									A angielskiego \"nieść\", prowadzić drużynę do zwycięstwa, \
+									Z angielskiego \"nieść\", prowadzić drużynę do zwycięstwa, \
 									zdecydowanie dominować nad wszystkimi i praktycznie móc samemu wygrać \
 									grę.<br />\
 									"));
@@ -307,16 +310,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"CD",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									ang. <i>cooldown</i> – czas odnowienia.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"CDR",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									ang. <i>coooldown reduction</i> – redukcja czasu odnowienia (umiejętności/itemu itp.).<br />\
 									"));
 
@@ -352,7 +351,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									ang. <i>creep score</i> – licznik <b>dobitych</b> minionków, punkt za każdego \
-									minionka, któremu zadasz ostatni cios, który go dobije, jeśli go nie dobije, \
+									minionka, któremu zadasz ostatni cios, który go dobije. Jeśli go nie dobije, \
 									nie naliczy się złoto, ani nie zwiększy liczba cs'ów. <br />\
 									"));
 
@@ -376,7 +375,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									Z agngielskiego: \"zanurkowanie\" pad wieżę przeciwnika w celu \
+									Z angielskiego: \"zanurkowanie\" pad wieżę przeciwnika w celu \
 									zdobycia zabójstwa.<br />\
 									"));
 									
@@ -407,14 +406,13 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									- Infernal (Piekła)<br />\
 									- Ocean (Oceanu)<br />\
 									- Hextech (Hextechu)<br />\
+									<br/>\
 									Kiedyś był jeszcze dostępny smok Chemtechowy, ale został on usunięty.<br/>\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Disengage",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Powstrzymanie ataku przeciwników.<br />\
 									"));
 
@@ -432,18 +430,14 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Elo",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
-									High Elo - wysoka ranga<br />\
-									Low Elo - niska ranga<br />\
+									High Elo – wysoka ranga.<br />\
+									Low Elo – niska ranga.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Elo Hell",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
-									Utkięcie w danej dywizji<br />\
+									Utkięcie w danej dywizji.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -455,8 +449,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Engage",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Zainicjowanie walki przez drużynę.<br />\
 									"));
 									
@@ -482,7 +474,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									Wejscie w miejsce bez wizji.<br />\
+									Wejscie w krzaki bez wizji, w celu zobaczenia czy kogoś tam nie ma.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -497,8 +489,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"First Blood",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Inaczej \"Pierwsza Krew\" – pierwsze zabójstwo w grze. <br />\
 									"));
 
@@ -507,7 +497,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									Inaczej \"Nażarty\" – stan w którym postać zdobywa dużą dominację \
+									Inaczej \"nażarty\" – stan w którym gracz zdobywa dużą dominację \
 									dzięki dużej liczbie zdobytych zabójstw. <br />\
 									"));
 
@@ -591,7 +581,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"GLHF",
 									"<b>Znaczenie:</b><br /> \
-									ang. <i>good luck have fun</i> – powodzenia i dobrej zabawy<br />\
+									ang. <i>good luck have fun</i> – powodzenia i dobrej zabawy.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -656,8 +646,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Harass",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Obijanie przeciwnika.<br />\
 									"));
 
@@ -701,14 +689,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									Wejście do jungli wroga, zazwyczaj w celu zczyszczenia mu<br />\
+									Wejście do jungli wroga.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Intowanie",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Celowe umieranie i przegrywanie gry. <br />\
 									"));
 
@@ -756,7 +742,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									Jednoczśnie uciekanie i obijanie goniących cię wrogów.<br />\
+									Jednocześnie uciekanie i obijanie goniących cię wrogów.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -778,15 +764,13 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Lag",
 									"<b>Znaczenie:</b><br /> \
-									Opóźnienia serwera spowodowane zazwyczaj słabym ineternetem, \
-									skutkujące ścinaniem się gry<br />\
+									Opóźnienia serwera spowodowane zazwyczaj słabym ineternetem, <br/>\
+									skutkujące ścinaniem się gry.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Lag spike",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Nagły wzrost odpowiedzi serwera.<br />\
 									"));
 
@@ -820,6 +804,13 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									Gracz wychodzący z gry przed jej zakończeniem.<br />\
 									"));
 
+
+
+
+
+
+
+// M 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Main",
 									"<b>Znaczenie:</b><br /> \
@@ -967,8 +958,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Nuke",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Umiejętność zadająca ogromne obrażenia.<br />\
 									"));
 
@@ -990,13 +979,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									ang. <li>out of mana</i> – nie mam many.<br />\
+									ang. <i>out of mana</i> – nie mam many.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"One shot",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Wyealiminowanie przeciwnika w jednej chwili, \
 									zazwyczaj za pomocą jednej umiejętności.<br />\
 									"));
@@ -1021,7 +1009,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"OP",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									ang. <i>over powered</i> – potężne, a wręcze zbyt potężne.<br />\
 									"));
 
@@ -1072,7 +1059,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Pot/Potki",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Mistury wzmacniając, leczące itp.<br />\
 									"));
 
@@ -1105,14 +1091,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Rage",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Dawanie upustu frustracji i złości spowodowanej grą.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Ragequit",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Wyjście z gry spowodowane frustracją.<br />\
 									"));
 									
@@ -1127,7 +1111,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Ranked",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Rozgrywka rankingowa.<br />\
 									"));
 
@@ -1167,8 +1150,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Salty",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Pisanie na czacie o swojej frustracji.<br />\
 									"));
 
@@ -1184,16 +1165,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Skillshot",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Umiejętność, którą należy wycelować.<br />\
 									"));									
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Smurf",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Osoba, która założyła sobie nowe konto, aby grać w niższych \
 									dywizjach, ze słabszymi przeciwnikami.<br />\
 									"));
@@ -1201,19 +1178,17 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Snipe",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Zabójstwa z dużej odległości. \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Snowball",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Efekt kuli śnieżnej – zdobycie ogromnej przewagi, dzięki małej przewadze na początku.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Spiltpush",
+									"Splitpush",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
@@ -1231,6 +1206,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Support",
 									"<b>Znaczenie:</b><br /> \
+									Wsparcie.<br/>\
 									<br />\
 									<b>League of Legends:</b><br />\
 									Wspierający – rola na dolnej alei polegająca na wspieraniu ADC.<br />\
@@ -1261,22 +1237,18 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Tank",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Klasa postaci, mających przyjmować obrażenia.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Team Comp",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Kompozycja drużyny<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Teamfight",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Walka drużynowa.<br />\
 									"));
 
@@ -1286,21 +1258,19 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									Troll face<br/>\
 									<br/>\
 									<b>League of Legends:</b><br />\
-									Twisted Fate – postać z gry. \
-									Lub Trinity Force – przedmiot z gry.<br />\
+									Twisted Fate – postać z gry, \
+									lub Trinity Force – przedmiot z gry.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Throw",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Oddawanie dużej przewagi.<br /> \
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Tilt",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Bycie zdenerwowanym.<br />\
 									"));
 
@@ -1315,7 +1285,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Toxic",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Negatywni gracze wyżywający się słownie na sojusznikach.<br />\
 									"));
 
@@ -1346,14 +1315,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Ulti/Ultimate",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									Umiejętność ostateczna.<br />\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"U2",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									ang. <i>you too</i> – ty też.<br />\
 									"));
 
@@ -1368,7 +1335,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"WP",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
 									ang. <i>well played</i> – dobrze zagrane.<br />\
 									"));
 
