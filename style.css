@@ -337,10 +337,7 @@ form textarea, form input{
     transition: 0.5s;
     color: initial;
     border-color: initial;
-    background: linear-gradient(45deg, var(--white), var(--dark));
-
-
-
+    background-color: var(--white);
 }
 
 .Title h1{
@@ -348,6 +345,7 @@ form textarea, form input{
     align-items: center;
     justify-content: center;
     margin-bottom: 0;
+    font-family: "Oswald";
 
 }
 .newWordMaker{
@@ -370,7 +368,7 @@ form textarea, form input{
     transition: 0.5s;
     color: initial;
     border-color: initial;
-    background: linear-gradient(45deg, var(--white), var(--dark));
+    background: var(--white);
 }
 
 
