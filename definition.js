@@ -34,8 +34,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"AA",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									ang. <i>auto atack</i> – podstawowy atak każdej\
 									postaci.<br />\
 									<br />\
@@ -59,8 +57,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"AD",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Obrażenia fizyczne<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
@@ -100,10 +96,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"AP",
 									"<b>Znaczenie:</b><br /> \
-									<br /> \
-									<b>League of Legends:</b> \
-									<br />\
-									Moc umiejętności<br />\
+									ang. <i>ability power</i> – Moc umiejętności<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
 									"));
@@ -113,7 +106,7 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									ang. <i>all random all mid</i>, tryb gry w którym wszyscy idą na jedną linię.\
+									ang. <i>all random all mid</i> – tryb gry w którym wszyscy idą na jedną linię.\
 									Zazwyczej rozgrywka w tym trybie trwa krócej niż standardowa mapa.<br />\
 									<br />\
 									<b>Przykład użycia:</b><br /> \
@@ -122,8 +115,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Armor Pen",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Penetracja pacerza – jedna ze satystyk, które można ulepszać\
 									poprzez kupowanie przedmiotów. Pomaga ona likwidować tanków.<br />\
 									<br />\
@@ -139,8 +130,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Assasin",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Klasa postaci, zabójca. Zadaje ogromne obrażenia w bardzo krótkim czasie,\
 									za to posiada małą ilość zdrowia.<br />\
 									<br />\
@@ -150,8 +139,6 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"AS",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									ang. <i>atack speed</i> – szybkość ataku, statystyka odpowiadająca za to jak\
 									często twoja postać będzie mogła używac auto ataków.<br />\
 									<br />\

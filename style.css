@@ -20,7 +20,7 @@
 body{
     font-family: "Oswald", sans-serif;
     font-size: 20px;
-    background:linear-gradient(45deg, var(--red), var(--dark)) ;
+    background:linear-gradient(45deg, var(--red), #2a5847);
     margin: 0px;  
     position: relative; 
 }
@@ -264,7 +264,7 @@ body form{
     position: sticky;
     display: flex;
     justify-content: center;
-    font-family: 'Bebas Neue';
+    font-family: 'Oswald';
     font-size: 60px;
     background: rgba(0, 0, 0, 0.25);
     color: black;
@@ -299,7 +299,7 @@ form textarea, form input{
     transition: 0.5s;
     height: 70px;
     width: 150px;
-    font-family: "Bebas Neue";
+    font-family: "Oswald";
     font-size: 40px;
     background: none;
     color: var(--white);
