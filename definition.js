@@ -36,6 +36,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>auto atack</i> – podstawowy atak każdej\
 									postaci.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Jeszcze jeden AA i chłop będzie martwy!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -48,12 +51,18 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>CS:GO, Valorant i gry FPS:</b><br />\
 									Wyeliminowanie wszystkich przeciwników przez <b>jednego</b> gracza w jednej rundzie.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ale Ace, rozwaliłeś ich stary!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"AD",
 									"<b>Znaczenie:</b><br /> \
 									Obrażenia fizyczne<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ej nie uwierzysz, mam 500 AD.\
 									"));	
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -63,19 +72,29 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Pozycja na dolnej alei: grają ją zazwyczaj strzelcy, mają zadawać duże obrażenia \
 									z dużej odległości, za to z bliska być bezużyteczni z powodu niskiej ilości zdrowia.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Nienawidzę grać ADC, ciągle tylko auto ataki, a jak ktoś do mnie podejdzie to jestem martwy.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"Admin",
 									"<b>Znaczenie:</b><br /> \
 									Właściciel/Założyciel grupy/serwera, posiadający \
-									największe uprawnienia."));	
+									największe uprawnienia.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Dałbyś mi uprawnienia Admina?\
+									"));	
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"AFK",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>away from keyboard</i> – zdala od klawiatury, \
-									osoba która odeszła od komputera."));	
+									osoba która odeszła od komputera.<br /> \
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Nie da się grać! Gość przegrał linię i poszedł AFK. Typowe..."));	
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"AOE", 
@@ -83,12 +102,18 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									ang. <i>Area Of Effect</i> - obszar efektu. \
 									Obszar w którym została użyta jakaś umiejętność. \
 									Nie wpływa bezpośrednio na pojedyńczego gracze, \
-									ale na wszystkich w tym obszarze."));
+									ale na wszystkich w tym obszarze.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Niedość że jej ulti zadaje ogromne obrażenia, to jeszcze AOE. To niesprawiedliwe!"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"AP",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>ability power</i> – moc umiejętności<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ja mam się budować pod AP, no nie?\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -98,6 +123,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									ang. <i>all random all mid</i> – tryb gry w którym wszyscy idą na jedną linię.\
 									Zazwyczej rozgrywka w tym trybie trwa krócej niż standardowa mapa.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Muszę zaraz kończyć, ale chodź jeszcze ARAMa zagramy.\
 									"));
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -107,19 +135,28 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b>\
 									Penetracja pacerza – jedna ze satystyk, które można ulepszać\
 									poprzez kupowanie przedmiotów. Pomaga ona likwidować tanków.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ile ty masz Armor Pen? Tanki nie mają z tobą szans!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"ASAP",
 									"<b>Znaczenie:</b> <br /> \
-									ang. <i>as soon as possible</i> – tak szybko jak się da."));
+									ang. <i>as soon as possible</i> – tak szybko jak się da.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Zgrupujmy się ASAP!"));
 
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
-									"Assasin",
+									"Assassin",
 									"<b>Znaczenie:</b><br /> \
 									Klasa postaci, zabójca. Zadaje ogromne obrażenia w bardzo krótkim czasie,\
 									za to posiada małą ilość zdrowia.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Mamy mało obrażeń w teamie, weź jakiegoś assassin'a, ok?\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -127,6 +164,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>atack speed</i> – szybkość ataku, statystyka odpowiadająca za to jak\
 									często twoja postać będzie mogła używac auto ataków.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ile on ma tego AS? Strzela z 5 razy na sekundę! Nienormalne.\
 									"));
 
 
@@ -143,18 +183,27 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Inaczej Recall. Skrót pochodzi od tego, że klawisz, pozwalający \
 									recallować to \"B\". <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Mordo back, martwy prawie jesteś!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"BB",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>bye bye</i> – pa pa.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Muszę już lecieć, bb.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Bind",
 									"<b>Znaczenie:</b><br /> \
 									Ręcznie stworzony przez graczy skrót na myszce lub klawiaturze. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Powie mi ktoś jak zrobić binda?\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -163,7 +212,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Próba zniszczenia Nexusa przeciwników gdy nie ma ich w bazie i są zajęci czymś innym. \
-									Jest to trudny manewr, ponieważ łatwo jest zostać zauważonym i zlikwidowanym.<br />\
+									Jest to trudny manewr, ponieważ łatwo jest zostać zauważonym i zlikwidowanym.<br />\<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ale bd, nawet się nie zorientowali jak przegrali!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -172,12 +223,18 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Jest to obszar, w którym znajduje się Nexus, spawn, sklep, dwie wieże i inhibitory.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Nie mogę im pozwolić wejść do base'a, bo przegramy.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"BG",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>Bad Game</i> – Zła Gra.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									(Zazwyczaj po prostu napisane na czacie przez toksycznych graczy na koniec gry).\
 									"));
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -188,12 +245,19 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									Neutralny niebieski stwór w dżungli, który po zabiciu\
 									daje niebiekie wzmocnienie, które przypiesza znacznie regenerację many. <br />\
 									(Blue – stwór, Blue buff – wzmocnienie)<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Zgarnę tylko blue i idę ci pomóc.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"BM",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>Bad Mannered</i> – osoba zachowująca się niekuluralnie.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Mógłbyś się bardziej postarać debilu, przez ciebie przegramy!<br/>\
+									– Ale bm! To nie była moja wina!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -202,6 +266,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									Osoba, która znajduje się w wyższej randze niż wskazują na to jej\
 									umiejętności. Prawdobobnie ktoś inny wbijał tej osobie rangę, lub\
 									grał z nią w jednej drużynie, carrując gry.<br /> \
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ktoś ją wyboostował i teraz sobie nie radzi, ma za swoje!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -209,10 +276,17 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>Ogólnie:</b><br /> \
-									Inaczej komputer grający zamiast gracza.<br /> \
+									Inaczej komputer grający zamiast gracza, albo obraźliwie na graczy któzy słabo grają.<br /> \
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Jak prosto! Normalnie jakbym na boty grał!\
 									<br /> \
 									<b>League of Legends:</b><br />\
 									ang. <i>bottom</i> – dół. Chodzi o dolną aleję.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Zagram sobie dziś bota ok?<br />\
+									– Spoko, jak chcesz.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -221,22 +295,34 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									ang. <i>Blade of the Ruined King</i> – Ostrze Zniszczonego Króla, przedmiot w grze.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Kurde, wystarczy że ta Irelia BotRKa kupi i już nie da się jej zabić!\
 									"));									
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"BRB",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>Be Right Back</i> – Zaraz wracam.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									O, wait, wołają mnie, brb.\
 									"));
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Buff",
 									"<b>Znaczenie:</b><br /> \
 									Czasowe lub trwałe podniesienie statystyk bohatera. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Hah! Ten buff jest zbyt potężny, nie da się mnie zabić xD!\
 									<br /> \
 									<b>League of Legends:</b><br />\
 									Wzmocnienie – zazwyczaj co dwa tygodnie do gry wchodzą nowe \"patche\", są to zmiany m.in.\
 									statystyk bohaterów. Wzmocnienie bohatera jest nazywane buffem.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Wreszcie buff do Gangplanka! Nie mogłem się doczekać!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -245,20 +331,28 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									Sposób rozdysponowania posiadanych przez postać punktów umiejętności. \
 									Najczęściej na początku rozgrywki podejmuje się decyzję, w którą stronę będzie się zmierzać (\
 									tank, mag, wojownik, zabójca itp.) i przez całą rozgrywkę ten plan się realizuje.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Wiesz może jaki jest build do Corkiego?<br />\
+									– Wiem tylko, że jest mega dziwny.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Burst",
 									"<b>Znaczenie:</b><br /> \
-									<br />\
-									<b>League of Legends:</b><br />\
 									Ogromne obrażenia zadane w krótkim czasie.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ale burst! Chłop pewnie nawet nie zauważył kiedy umarł!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Bug",
 									"<b>Znaczenie:</b><br /> \
 									Błąd w grze przeoczony przez twórców.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Kolejne akualizacje, kolejne bugi, no nie wytrzymam.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -268,6 +362,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Klasa postaci – jest to \"fighter\", z dużą przeżywalnością. \
 									Coś pomiędzy fighterem a tankiem.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Spróbuję się dziś zbudować pod bruisera, podobno strasznie to OP teraz.\
 									"));
 																		
 // C
@@ -275,6 +372,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"Camp",
 									"<b>Znaczenie:</b><br /> \
 									Kryjówka, pozwalająca wziąść wroga z zaskoczenia.\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Znajdź sobie campa i wypatruj wroga.<br/>\
 									<br />\
 									<b>League of Legends:</b><br />\
 									Obóz danych stworów w jungli, podstawowych campów jest 6 rodzaji:<br />\
@@ -290,6 +390,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									- Wraiths/Wiedźmy/Rapory<br />\
 									<br />\
 									Oraz krab wędrownik, który chodzi po rzece i nikogo nie atakuje.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Od jakiego campa mam zacząć?<br/>\
+									– Możesz spróbować od Raptorów, będzie ciekawie.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -298,6 +402,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									Z angielskiego \"nieść\", prowadzić drużynę do zwycięstwa, \
 									zdecydowanie dominować nad wszystkimi i praktycznie móc samemu wygrać \
 									grę.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Gdyby nie ja to byśmy przegrali! Mocno nas wycarrowałem.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -305,18 +412,27 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									Kontrola tłumu, wszystkie efekty wpływające na mobilność przeciwników, \
 									wszelkiego rodzaju spowolnienia, ogłuszenia itp.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Nienawidzę Blitzcranka, jak cię z CC-kuje, to to nie poruszysz się dopóki nie umrzesz.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"CD",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>cooldown</i> – czas odnowienia.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Nie mogę ci pomóc, wszystkie umiejętności mam na cd :((.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"CDR",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>coooldown reduction</i> – redukcja czasu odnowienia (umiejętności/itemu itp.).<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Przydałoby mi się trochę CDR, za długo musze czekać na te umiejętności.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -325,6 +441,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Zgankowanie linii gankowanej przez enemy junglera. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Pomóż mi zgankowali mnie!<br/>\
+									– Już lecę z counter gankiem!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -334,6 +454,12 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Zajęcie się linią sojusznika, gdy tego tam nie ma bo jest martwy, jest na twojej, \
 									ablo z jakiegoś innego powodu.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									(Wyraz ten źle brzmi jeśli się go spolszcza, więc zwykle używany jest w języku angielskim. \
+									Nie zmienia to faktu, że jest to istotne sformułowanie.)<br/>\
+									– Can u cover my line for a moment bro?<br />\
+									– Sure, OMW.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -342,7 +468,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Inaczej minionki, małe stwory, które pojawiają się regularnie falami \
-									na każdej linii.<br />\
+									na każdej linii.<br />\\<br />\
+									<b>Przykład użycia:</b><br /> \
+									No nie, wszystkie creepy rozbijają się mi o wieżę!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -353,6 +481,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									ang. <i>creep score</i> – licznik <b>dobitych</b> minionków, punkt za każdego \
 									minionka, któremu zadasz ostatni cios, który go dobije. Jeśli go nie dobije, \
 									nie naliczy się złoto, ani nie zwiększy liczba cs'ów. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Tylko 50 CS w 20 minucie? Ty serio nie umiesz grać.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -360,7 +491,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									<br />\
 									<b>League of Legends:</b><br />\
-									Przedmiot, postawiony w terenie, zapewnia wizję/widoczność w określonym obszarze.<br />\
+									Przedmiot, postawiony w terenie, zapewnia wizję/widoczność w określonym obszarze. Wykrywa również wizję przciwnika.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Postaw proszę pinka w tych krzakach, muszę mieć pewność że nikt mnie nie widzi.\
 									"));
 
 
@@ -377,18 +511,28 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Z angielskiego: \"zanurkowanie\" pad wieżę przeciwnika w celu \
 									zdobycia zabójstwa.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Szybko, dive'ujemy! Możemy go zabić!<br/>\
+									– Obawiam się że to nie jest dobry pomysł.\
 									"));
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"DPS",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>damage per secound</i> – obrażenia na sekundę.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									No, zobaczmy jakie mam DPS-y.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"DoT",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>damage over time</i> – obrażenia zadawane w czasie.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									NIENAWIDZĘ wszelkich DoT, moge tylko patrzeć jak powoli umieram...\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -408,18 +552,28 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									- Hextech (Hextechu)<br />\
 									<br/>\
 									Kiedyś był jeszcze dostępny smok Chemtechowy, ale został on usunięty.<br/>\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Szybko, bierzemy Drake'a, to jedyna szansa!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Disengage",
 									"<b>Znaczenie:</b><br /> \
 									Powstrzymanie ataku przeciwników.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Uff, dobrze że ten disengage się udał. Myślałem już że przegramy!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Dodge",
 									"<b>Znaczenie:</b><br /> \
 									Unik<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Musisz nauczyć się dodge'ować te spelle inaczej ciągle będziesz ginął.<br />\
+									– Kiedy to takie trudne!\
 									"));
 
 
@@ -432,24 +586,38 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									High Elo – wysoka ranga.<br />\
 									Low Elo – niska ranga.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ty ciągle low elo, współczuję.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Elo Hell",
 									"<b>Znaczenie:</b><br /> \
-									Utkięcie w danej dywizji.<br />\
+									Spadnięcie do niższej dywizji i utknięcie w niej z powodu niskiego zaawansowania graczy w drużynie. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Kurna elo hell mam, zawsze mi jakichś idiotów do teamu dobiera!<br/>\
+									– A może to ty nie umiesz grać co?\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"EZ",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>easy</i> – łatwo.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ez game, ez win.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"Engage",
 									"<b>Znaczenie:</b><br /> \
 									Zainicjowanie walki przez drużynę.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Ktoś musi engage'ować inaczej ciągle tak będziemy się okrążali.<br/>\
+									– Jak taki chętny jesteś to proszę bardzo, ja tam bym poczekał.\
 									"));
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -459,6 +627,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Inaczej Elder Dragon, Starszy Smok, pojawia się po tym jak \
 									jakaś drużyna zbierze \"soula\".<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Dobra Elder jest nasz, łatwo.\
 									"));
 
 
@@ -475,6 +646,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Wejscie w krzaki bez wizji, w celu zobaczenia czy kogoś tam nie ma.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Facechekuj te krzaki.<br/>\
+									– Co ty, oni na pewno tam siedzą! Umrę!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -484,12 +659,18 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Zabijanie wszelkiego rodzaju stworów, \
 									w celu zdobycia złota i doświadczenia.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Mógłbyś się wziąć porządnie za farmienie, zamiast bez sensu biegać po mapie?\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"First Blood",
 									"<b>Znaczenie:</b><br /> \
 									Inaczej \"Pierwsza Krew\" – pierwsze zabójstwo w grze. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									I cyk, firstblood dla mnie.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -499,6 +680,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Inaczej \"nażarty\" – stan w którym gracz zdobywa dużą dominację \
 									dzięki dużej liczbie zdobytych zabójstw. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Ale jestem fed, niech uciekają!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -507,6 +691,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Ciągłe umieranie, doprawadzające do tego, że przeciwnik jest \"fed\".<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Czy mógłbyś przestać feedować tego Warwicka? Zaraz przegramy przez ciebie.<br />\
+									– Staram się, ale to strasznie trudne!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -515,6 +703,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Poddanie się.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Nie ma szans na wygraną, ff.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -523,6 +714,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Utrzymywanie fali minionów w jednym miejscu.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Freezuj tą falę, proszę.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -532,6 +726,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Efekt kotroli tłumu powodujący powolne oddalanie się od nadawcy \
 									cc'ka, oraz bycie niezdolnym do użycia jakichkolwiek umiejętności.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Sora, feara na mordę dostałem, nic zrobić nie mogłem.\
 									"));
 
 
@@ -548,6 +745,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Pomoc junglera na linii.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Zgankowałbyś może, czy coś?<br /> \
+									– No już zaraz.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -557,6 +758,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<b>League of Legends:</b><br />\
 									Wszelkiego rodzaju dashe, doskoki, blinki itp. skracające odległość \
 									pomiędzy tobą a rywalem. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Szkoda że usuneli dasha stridebreakerowi, był świetnym gap closerem.<br/>\
+									– To prawda.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -564,24 +769,35 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"<b>Znaczenie:</b><br /> \
 									Oglądanie streama jednego z przeciwników, w trakcie trwania meczu, \
 									w celu zobaczenia pozycji przeciwników. <br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Według mnie ghosting to tylko psucie sobie frajdy z rozgrywki.\
 									"));
 									
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"GG",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>good game</i> – Dobra Gra.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									(Zazwyczaj pisze się GG na koniec każdej gry na czacie.)\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"GJ",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>good job</i> – dobra robota!<br />\
+									GJ bro, genialnie go wrobiłeś.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
 									"GLHF",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>good luck have fun</i> – powodzenia i dobrej zabawy.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Idę grać.<br/>\
+									– GLHF!\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -590,6 +806,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Gangplank – jedna z postaci.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Uwielbiam GP'ka, niesamowita postać.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -612,6 +831,11 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Postać, będąca mocna w późnym etapie gry, bazująca zazwyczaj na autoatakach.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Potrzebujemy hypercarry.<br/>\
+									– OK, pickuję Yasuo.<br/>\
+									– WTF, ogarnij się.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -625,6 +849,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									- Great Shotcalling (Doskonałe Dowodzenie)<br /> \
 									- Stayed Cool (Zachowanie Zimnej Krwi)<br /> \
 									- GG <3 (Dobra gra <3)<br /> \
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Oddaj mi honor.<br />\
+									– Nie xD.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -633,6 +861,10 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Duża pomoc junglerowi przy pierwszym campie.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									– Dzięki za hard leasha.<br/>\
+									– Nie ma za co.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -641,6 +873,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Kontrola tłumu nie pozwalająca się ruszyć z miejsca.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									I już, hard CC na typa i jest martwy.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -660,6 +895,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									"Inc",
 									"<b>Znaczenie:</b><br /> \
 									ang. <i>incoming</i> – nadchodzą.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Szykuj się, inc.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
@@ -668,6 +906,9 @@ definitionList.push(new Definition("samuel.wlostowski@gmail.com",
 									<br />\
 									<b>League of Legends:</b><br />\
 									Wieże wewnątrzne.<br />\
+									<br />\
+									<b>Przykład użycia:</b><br /> \
+									Świetnie, inner padły, to koniec chyba.\
 									"));
 
 definitionList.push(new Definition("samuel.wlostowski@gmail.com", 
